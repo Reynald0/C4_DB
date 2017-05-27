@@ -40,6 +40,12 @@
 	});
 </script>
 <footer>
+	<div>
+		<a href="https://www.facebook.com/DAReynald0/" target="_blank">
+			<img alt="Follow us in FACEBOOK" height="48" src="http://cesavetlax.com.mx/images/Index/facebook.png" 
+			title="Follow us in Facebook" width="48" />
+		</a>
+	</div>
 	Powered by <a href="http://uninformatico.com">uninformatico.com</a> 2016 &copy;
 </footer>
 </div>
