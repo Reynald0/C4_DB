@@ -49,10 +49,9 @@
             {
                 $imgIcon = "skill";
             }
-            $imgIcon .= $skillID."_0";
-            
+           
             echo "<tr>";
-            echo "<td><img src='img/icon/".$imgIcon.".bmp'></td>";
+            echo "<td><img src='img/icon/".$imgIcon.".jpg'></td>";
             echo "<td>".$fila['class_id']."</td>";
             echo "<td>".$fila['class_name']."</td>";
             echo "<td>".$fila['skill_id']."</td>";
