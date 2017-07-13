@@ -27,6 +27,7 @@
                         <li><a href="es/">Spanish</a></li>
                   </ul>
                 </li>
+                <li><a href="https://goo.gl/FSGbBn">Website</a></li>
                 <li><a href="http://l2devsadmins.net/l2devsAdmins2-0-11/">Forum</a></li>
                 <!--li><a href="http://devsc6.hol.es/">C6 DB<span class="label label-info">New</span></a></li-->
             </ul>

@@ -49,6 +49,7 @@
             {
                 $imgIcon = "skill";
             }
+            $imgIcon .= $skillID;
             
             echo "<tr>";
             echo "<td><img src='../img/icon/".$imgIcon.".jpg'></td>";
